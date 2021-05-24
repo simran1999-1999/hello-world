@@ -1,1 +1,2 @@
-# hello-world
+# hello
+What i would like to accomplish in web design is for a better future. In this field, we can create a better future because it is a high paid field and this is the reason I selected this course. Nowadays internet is growing rapadily and everyone uses internet and when we search anything from internet, we use world wide web. Moreover, in this course we will learn about new apps such as github ,VISTUAL STUDIO CODE  etc. This website is very helpful because we learn new skills through these knowledge we make many other web resourses.
